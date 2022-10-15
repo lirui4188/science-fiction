@@ -1,2 +1,2 @@
 # science-fiction
-第一个小说
+*[编者序](READER.md)
